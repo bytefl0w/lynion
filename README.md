@@ -1,2 +1,2 @@
-# lynion
-Lynion - a basic blockchain implementation
+# Lynion Blockchain
+A basic blockchain implementation created by Erik Mortimer
